@@ -44,3 +44,7 @@ Requires a modern browser with WebGL support:
 
 ![Screenshot](Screenshot%202026-03-03%20000022.png)
 
+##Licensce
+- Project Is Free Under MIT Licensce
+
+
